@@ -1,0 +1,14 @@
+# PHP
+/vendor/
+/composer.lock
+.env
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite
+*.zip
+
+# OS files
+Thumbs.db
+Desktop.ini
