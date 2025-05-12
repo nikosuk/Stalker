@@ -38,7 +38,7 @@ iptv_php_plain/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/iptv_php_plain.git
+   git clone https://github.com/nikosuk/iptv_php_plain.git
    cd iptv_php_plain
    ```
 
